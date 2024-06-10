@@ -5,6 +5,7 @@ const algorithms = require('./data/algorithms');
 const languages = require('./data/languages');
 
 const siteConfig = {
+  name: "Algoriths",
   title: 'All ▲lgorithms',
   tagline: 'Making algorithms easier for everyone',
   url: 'https://allalgorithms.com',
